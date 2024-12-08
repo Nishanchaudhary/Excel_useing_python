@@ -1,4 +1,4 @@
-# Excel Automation Using Python
+# Simple Excel Automation Using Python
 
 Welcome to the **Excel Automation Using Python** repository! This project showcases the power of Python for performing advanced operations on Excel files, streamlining workflows, and automating repetitive tasks. If you work with data in Excel frequently, this project is your go-to solution for simplifying complex tasks.
 
